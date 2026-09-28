@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+
+Authentication_Product_CRUD_Assignment_Sheryians.pdf
